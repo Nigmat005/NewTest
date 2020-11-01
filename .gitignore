@@ -1,1 +1,3 @@
-/src/main/java/Test1.java
+/target/
+/.idea/
+/*.iml/
